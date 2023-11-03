@@ -13,6 +13,12 @@ function home () {
             </head>            
             <body>
                 <h1>HOME</h1>
+                <div>
+                    <img class="home-image" src='/images/Kabobs.avif'/>
+                    <div>
+                        Photo by <a href="https://unsplash.com/@victoriakosmo">Victoria Shes</a> on <a href="https://unsplash.com">Unsplash</a>
+                    </div>
+                </div>
                 <a href="/places">
                     <button className="btn-primary">Places Page</button>
                 </a>
